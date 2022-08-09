@@ -1,0 +1,156 @@
+INSERT INTO qseat.AnagraficaDipendenti (Email,NomeBreve,NomeEsteso,Nome,Cognome,Ruolo,InsertUpdateTimestamp,DataEntrata,DataUscita) VALUES
+	 ('adriana.cano@quantyca.it','AdrCan','Adriana Cano','Adriana','Cano','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('alessandra.sala@quantyca.it','AleSal','Alessandra Sala','Alessandra','Sala','HR','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('alessandro.gallo@quantyca.it','AleGal','Alessandro Gallo','Alessandro','Gallo','ACCOUNT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('alessandro.giordano@quantyca.it','AleGio','Alessandro Giordano','Alessandro','Giordano','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('alessandro.molinari@quantyca.it','AleMon','Alessandro Molinari','Alessandro','Molinari','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('alessia.bonizzoni@quantyca.it','AleBon','Alessia Bonizzoni','Alessia','Bonizzoni','MARKETING','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('andrea.gioia@quantyca.it','AndGio','Andrea Gioia','Andrea','Gioia','PARTNER','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('andrea.macchi@quantyca.it','AndMac','Andrea Macchi','Andrea','Macchi','PM','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('arianna.torchio@quantyca.it','AriTor','Arianna Torchio','Arianna','Torchio','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('daniele.riva@quantyca.it','DanRiv','Daniele Riva','Daniele','Riva','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL);
+INSERT INTO qseat.AnagraficaDipendenti (Email,NomeBreve,NomeEsteso,Nome,Cognome,Ruolo,InsertUpdateTimestamp,DataEntrata,DataUscita) VALUES
+	 ('daniele.uboldi@quantyca.it','DanUbo','Daniele Uboldi','Daniele','Uboldi','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('davide.scola@quantyca.it','DavSco','Davide Scola','Davide','Scola','ACCOUNT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('fabio.moretti@quantyca.it','FabMore','Fabio Moretti','Fabio','Moretti','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('federico.didio@quantyca.it','FedDid','Federico Di Dio','Federico','Di Dio','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('federico.sala@quantyca.it','FedDal','Federico Sala','Federico','Sala','ARCHITECT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('francesco.gianferraripini@quantyca.it','FraGia','Francesco Gianferrari Pini','Francesco','Gianferrari Pini','PARTNER','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('gabriele.dellatorre@quantyca.it','GabDel','Gabriele Della Torre','Gabriele','Della Torre','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('giacomo.scolari@quantyca.it','GiaSco','Giacomo Scolari','Giacomo','Scolari','ARCHITECT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('giandomenico.avelluto@quantyca.it','GiaAve','Giandomenico Avelluto','Giandomenico','Avelluto','INNOVATION','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('giorgio.pilotti@quantyca.it','GioPil','Giorgio Pilotti ','Giorgio','Pilotti','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL);
+INSERT INTO qseat.AnagraficaDipendenti (Email,NomeBreve,NomeEsteso,Nome,Cognome,Ruolo,InsertUpdateTimestamp,DataEntrata,DataUscita) VALUES
+	 ('giorgio.tavecchia@quantyca.it','GioTav','Giorgio Tavecchia','Giorgio','Tavecchia','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('giulia.busnelli@quantyca.it','GiuBus','Giulia Busnelli','Giulia','Busnelli','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('giulia.gaglione@quantyca.it','GiuGag','Giulia Gaglione','Giulia','Gaglione','AMMINISTRAZIONE','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('giulio.scotti@quantyca.it','GiuSco','Giulio Scotti','Giulio','Scotti','ARCHITECT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('giuseppe.russo@quantyca.it','GiuRus','Giuseppe Russo','Giuseppe','Russo','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('guido.pelizza@quantyca.it','GuiPel','Guido Pelizza','Guido','Pelizza','PARTNER','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('jacopo.aliprandi@quantyca.it','JacAlip','Jacopo Aliprandi','Jacopo','Aliprandi','INNOVATION','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('lorenzo.verardo@quantyca.it','LorVer','Lorenzo Verardo','Lorenzo','Verardo','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('marco.andreoni@quantyca.it','MarAnd','Marco Andreoni','Marco','Andreoni','INNOVATION','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('marco.catalano@quantyca.it','MarCat','Marco Catalano','Marco','Catalano','PM','2021-08-06 13:19:53','2020-01-06',NULL);
+INSERT INTO qseat.AnagraficaDipendenti (Email,NomeBreve,NomeEsteso,Nome,Cognome,Ruolo,InsertUpdateTimestamp,DataEntrata,DataUscita) VALUES
+	 ('marco.re@quantyca.it','MarRe','Marco Re','Marco','Re','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('matteo.borghi@quantyca.it','MatBor','Matteo Borghi','Matteo','Borghi','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('matteo.cimini@quantyca.it','MatCim','Matteo Cimini','Matteo','Cimini','INNOVATION','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('matteo.dipierro@quantyca.it','MatDiP','Matteo Di Pierro','Matteo','Di Pierro','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('matteo.pelizza@quantyca.it','MatPel','Matteo Pelizza','Matteo','Pelizza','PARTNER','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('mauro.luchetti@quantyca.it','MauLuc','Mauro Luchetti','Mauro','Luchetti','ARCHITECT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('michele.launi@quantyca.it','MicLau','Michele Launi','Michele','Launi','PM','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('mirco.manzoni@quantyca.it','MirMan','Mirco Manzoni','Mirco','Manzoni','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('paola.marchesini@quantyca.it','PaoMar','Paola Marchesini','Paola','Marchesini','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('pietro.latorre@quantyca.it','PieLaT','Pietro La Torre','Pietro','La Torre','INNOVATION','2021-08-06 13:19:53','2020-01-06',NULL);
+INSERT INTO qseat.AnagraficaDipendenti (Email,NomeBreve,NomeEsteso,Nome,Cognome,Ruolo,InsertUpdateTimestamp,DataEntrata,DataUscita) VALUES
+	 ('roberta.pollastro@quantyca.it','RobPol','Roberta Pollastro','Roberta','Pollastro','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('salvatore.damicis@quantyca.it','SalDam','Salvatore D''Amicis','Salvatore','D''Amicis','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('samuel.nicoli@quantyca.it','SamNic','Samuel Nicoli','Samuel','Nicoli','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('simone.sampaoli@quantyca.it','SimSam','Simone Sampaoli','Simone','Sampaoli','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('stefania.lunardi@quantyca.it','SteLun','Stefania Lunardi','Stefania','Lunardi','PM','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('stefano.delloro@quantyca.it','SteDel','Stefano Dell''Oro','Stefano','Dell''Oro','CONSULTANT','2021-08-06 13:19:53','2020-01-13',NULL),
+	 ('stefano.stasuzzo@quantyca.it','SteSta','Stefano Stasuzzo','Stefano','Stasuzzo','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('tommaso.motta@quantyca.it','TomMot','Tommaso Motta','Tommaso','Motta','PARTNER','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('vincenzo.incorvaia@quantyca.it','VinInc','Vincenzo Incorvaia','Vincenzo','Incorvaia','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL),
+	 ('yuri.martiradonna@quantyca.it','YurMar','Yuri Martiradonna','Yuri','Martiradonna','CONSULTANT','2021-08-06 13:19:53','2020-01-06',NULL);
+INSERT INTO qseat.AnagraficaPostazioni (IdPostazioneScrivania,PrenotabileFlag,Destinazione,Sede,Piano,InsertUpdateTimestamp) VALUES
+	 ('M-1',0,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-10',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-11',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-12',0,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-13',0,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-14',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-15',0,'Blindata','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-16',0,'Blindata','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-17',0,'Amministrazione & HR','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-18',0,'Amministrazione & HR','Corso Milano 45','Mansarda','2021-08-06 13:20:10');
+INSERT INTO qseat.AnagraficaPostazioni (IdPostazioneScrivania,PrenotabileFlag,Destinazione,Sede,Piano,InsertUpdateTimestamp) VALUES
+	 ('M-19',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-2',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-3',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-4',0,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-5',0,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-6',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-7',1,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-8',0,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('M-9',0,'Delivery','Corso Milano 45','Mansarda','2021-08-06 13:20:10'),
+	 ('P1-1',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10');
+INSERT INTO qseat.AnagraficaPostazioni (IdPostazioneScrivania,PrenotabileFlag,Destinazione,Sede,Piano,InsertUpdateTimestamp) VALUES
+	 ('P1-10',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-11',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-12',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-13',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-14',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-15',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-16',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-17',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-18',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-19',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10');
+INSERT INTO qseat.AnagraficaPostazioni (IdPostazioneScrivania,PrenotabileFlag,Destinazione,Sede,Piano,InsertUpdateTimestamp) VALUES
+	 ('P1-2',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-20',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-3',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-4',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-5',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-6',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-7',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-8',0,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10'),
+	 ('P1-9',1,'Delivery','Corso Milano 45','Primo','2021-08-06 13:20:10');
+INSERT INTO qseat.StoricoPrenotazioni (`Data`,CodPostazioneScrivania,Risorsa,InsertUpdateTimestamp) VALUES
+	 ('2020-05-17','P1-7','matteo.borghi@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-05-20','P1-7','matteo.borghi@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-05-25','P1-14','alessandra.sala@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-05-25','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-02','M-11','matteo.dipierro@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-02','M-7','salvatore.damicis@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-02','P1-14','tommaso.motta@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-02','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-02','P1-19','alessandra.sala@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-02','P1-7','matteo.borghi@quantyca.it','2021-08-06 13:20:31');
+INSERT INTO qseat.StoricoPrenotazioni (`Data`,CodPostazioneScrivania,Risorsa,InsertUpdateTimestamp) VALUES
+	 ('2020-06-07','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-07','P1-18','alessandra.sala@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-09','P1-7','matteo.borghi@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-14','P1-1','vincenzo.incorvaia@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-14','P1-11','yuri.martiradonna@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-14','P1-3','lorenzo.verardo@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-14','P1-5','gabriele.dellatorre@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-14','P1-7','matteo.borghi@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-15','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-15','P1-19','alessandro.giordano@quantyca.it','2021-08-06 13:20:31');
+INSERT INTO qseat.StoricoPrenotazioni (`Data`,CodPostazioneScrivania,Risorsa,InsertUpdateTimestamp) VALUES
+	 ('2020-06-17','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-17','P1-18','alessandra.sala@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-17','P1-19','alessandro.giordano@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-21','P1-14','giulia.gaglione@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-21','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-21','P1-18','alessandra.sala@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-22','P1-14','andrea.gioia@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-24','P1-14','alessandro.giordano@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-24','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-24','P1-18','alessandra.sala@quantyca.it','2021-08-06 13:20:31');
+INSERT INTO qseat.StoricoPrenotazioni (`Data`,CodPostazioneScrivania,Risorsa,InsertUpdateTimestamp) VALUES
+	 ('2020-06-29','M-10','paola.marchesini@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-29','M-14','federico.didio@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-29','M-3','yuri.martiradonna@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-29','M-6','daniele.uboldi@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-29','M-7','salvatore.damicis@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-30','M-10','giacomo.scolari@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-30','M-11','matteo.dipierro@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-30','P1-14','tommaso.motta@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-30','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-06-30','P1-18','alessandra.sala@quantyca.it','2021-08-06 13:20:31');
+INSERT INTO qseat.StoricoPrenotazioni (`Data`,CodPostazioneScrivania,Risorsa,InsertUpdateTimestamp) VALUES
+	 ('2020-06-30','P1-3','andrea.macchi@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-07','M-10','giacomo.scolari@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-07','M-11','matteo.dipierro@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-07','M-2','giulio.scotti@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-07','M-6','alessandro.giordano@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-07','P1-18','mauro.luchetti@quantyca.it','2021-09-02 16:53:50'),
+	 ('2020-07-07','P1-19','alessandro.molinari@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-07','P1-5','gabriele.dellatorre@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-08','P1-15','alessia.bonizzoni@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-07-08','P1-18','alessandra.sala@quantyca.it','2021-08-06 13:20:31');
+INSERT INTO qseat.StoricoPrenotazioni (`Data`,CodPostazioneScrivania,Risorsa,InsertUpdateTimestamp) VALUES
+	 ('2020-07-08','P1-19','federico.didio@quantyca.it','2021-08-06 13:20:31'),
+	 ('2020-12-17','P1-7','matteo.borghi@quantyca.it','2021-08-23 14:49:16');

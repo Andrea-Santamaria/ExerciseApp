@@ -1,0 +1,36 @@
+version: '3.4'
+
+services:
+  db:
+    container_name: qseat-db
+    image: qseat-db:latest
+    build:
+      context: qseat_DB_init
+      dockerfile: Dockerfile
+    environment:
+      MYSQL_ROOT_PASSWORD: 2^+,WpA@[7fkyJF,
+      MYSQL_DATABASE: qseat
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+
+  qseatapp:
+    container_name: qseat-be
+    image: qseat-be:latest
+    build:
+      context: qseat_app
+      dockerfile: Dockerfile
+    environment:
+      SPRING_APPLICATION_JSON: '{
+        "spring.datasource.url"  : "jdbc:mysql://qseat-db:3306/qseat",
+        "spring.datasource.username" : "root",
+        "spring.datasource.password" : "2^+,WpA@[7fkyJF,",
+        "spring.jpa.properties.hibernate.dialect" : "org.hibernate.dialect.MySQL8Dialect",
+        "spring.jpa.hibernate.ddl-auto" : "update"
+      }'
+    depends_on:
+      - db
+    ports:
+      - '8081:8081'
+
